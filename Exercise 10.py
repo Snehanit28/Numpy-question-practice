@@ -1,6 +1,6 @@
 #  How to generate custom sequences in numpy without hardcoding?
 
-import numpy as np 
+import numpy as np
 
 seq = np.arange(5, 30, 5) 
 print(seq)     # => [ 5 10 15 20 25]
